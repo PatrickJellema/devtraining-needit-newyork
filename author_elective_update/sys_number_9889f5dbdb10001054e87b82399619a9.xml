@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_58872_needit_needit">x_58872_needit_needit</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2</number>
+        <prefix>NI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 08:25:16</sys_created_on>
+        <sys_id>9889f5dbdb10001054e87b82399619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_number_9889f5dbdb10001054e87b82399619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 08:25:16</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>105ca19ddb3437c0387021c405961915</instance_id>
+        <instance_name>dev80560</instance_name>
+        <name>sys_number_9889f5dbdb10001054e87b82399619a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_58872_needit_needit">x_58872_needit_needit</category><maximum_digits>6</maximum_digits><number>2</number><prefix>NI</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 08:25:16</sys_created_on><sys_id>9889f5dbdb10001054e87b82399619a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NI</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_number_9889f5dbdb10001054e87b82399619a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 08:25:16</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1011304948</payload_hash>
+        <record_name>NI</record_name>
+        <reverted_from/>
+        <source>63beb503db54001054e87b8239961988</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 08:25:16</sys_created_on>
+        <sys_id>5489f5dbdb10001054e87b82399619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16db4c5ac1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 08:25:16</sys_updated_on>
+        <type>Number</type>
+        <update_guid>9c89f5db351000101aeb17ef34bac3b0</update_guid>
+        <update_guid_history>9c89f5db351000101aeb17ef34bac3b0:1011304948</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 08:27:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>d7820494b6c84d4092cae2919ce8a900</sys_id>
+        <sys_metadata>9889f5dbdb10001054e87b82399619a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">7139f99bdb10001054e87b82399619ab</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_number_9889f5dbdb10001054e87b82399619a9</sys_update_name>
+        <sys_update_version display_value="sys_number_9889f5dbdb10001054e87b82399619a9">5489f5dbdb10001054e87b82399619b1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 08:27:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
