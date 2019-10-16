@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-26 19:28:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a41811310fa03200cd674f8ce1050e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-26 19:28:14</sys_updated_on>
+            <value>legal</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-26 19:28:14</sys_created_on>
+            <sys_id>83e8dd191be000107fef2f86ec4bcb5b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>u_request_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-09 21:19:52</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f8d54db1dbecbb0049eac597059619f2</instance_id>
+        <instance_name>dev78291</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_request_type</element><hint/><inactive>false</inactive><label>Legal</label><language>en</language><name>x_58872_needit_needit</name><sequence>2</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-26 19:28:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a41811310fa03200cd674f8ce1050e4d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-01-26 19:28:14</sys_updated_on><value>legal</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-26 19:28:14</sys_created_on><sys_id>83e8dd191be000107fef2f86ec4bcb5b</sys_id><sys_mod_count>3</sys_mod_count><sys_name>u_request_type</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-02-09 21:19:52</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1701966180</payload_hash>
+        <record_name>x_58872_needit_needit.u_request_type</record_name>
+        <reverted_from/>
+        <source>8ef8d1d51be000107fef2f86ec4bcb92</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 11:12:26</sys_created_on>
+        <sys_id>bb4919991be000107fef2f86ec4bcb89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dd444e0520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 11:12:26</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>3749199936e00010c661ef1b71217c89</update_guid>
+        <update_guid_history>3749199936e00010c661ef1b71217c89:-1701966180,b34919999ce000108b49d9c5cb838f86:736548692,33491999aae00010147ae5c0e8162983:833312879,8fe8dd19aee000101541f5d8fbf12561:0,afb8d519e7e00010968094257a9ca4b4:-809397154,6fb8d519b4e00010d53dbfb185820bb0:-1701966180,ebb8d5190ee00010aaae8e576d633dad:736548692,6bb8d51999e00010c17563fbe6194faa:833312879,649891d573e00010d1714d13f5d0a520:0,5688dd9522e00010b9c23fe43ec9fd98:1987407169,d688dd9557e0001066190783424ddc94:-1701966180,5688dd95f6e00010c3e34ffe90b4f991:736548692,d288dd958fe00010209252b599d1868e:833312879,a817d515bde0001092ac47eb049bd61c:0,6c4611d12ee00010cc5997867015c6cc:-1271326263,2c4611d178e000102ef9b22e1d19ecc8:-1701966180,a84611d16ce0001074e11821a6f175c5:736548692,284611d101e000108f9165a7d332c3c2:833312879,3009bcc984640010e4551140b0afc3de:1291051831,f009bcc9686400108beed8ed9a4de5da:-1701966180,b009bcc90064001069ec03c86bab9cd7:736548692,7009bcc9eb6400105a078c3249d23dd4:833312879,84053b7c89600010bff5019accfcdf9c:635629075,48053b7c15600010b123eb323f9bff98:-1701966180,08053b7c6360001096ecd05b6a306495:736548692,c4053b7c086000108bf15a4fa2a5d192:833312879,4050efb4af2000101f90769d24a6f26f:833312879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 11:12:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>83e8dd191be000107fef2f86ec4bcb5b</sys_id>
+        <sys_metadata>83e8dd191be000107fef2f86ec4bcb5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">bb4919991be000107fef2f86ec4bcb89</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 11:12:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
